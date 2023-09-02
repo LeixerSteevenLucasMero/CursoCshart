@@ -1,0 +1,16 @@
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\bin\Debug\net6.0-windows\PrimerPrograma.exe
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\bin\Debug\net6.0-windows\PrimerPrograma.deps.json
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\bin\Debug\net6.0-windows\PrimerPrograma.runtimeconfig.json
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\bin\Debug\net6.0-windows\PrimerPrograma.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\bin\Debug\net6.0-windows\PrimerPrograma.pdb
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\obj\Debug\net6.0-windows\PrimerPrograma.Form1.resources
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\obj\Debug\net6.0-windows\PrimerPrograma.csproj.GenerateResource.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\obj\Debug\net6.0-windows\PrimerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\obj\Debug\net6.0-windows\PrimerPrograma.AssemblyInfoInputs.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\obj\Debug\net6.0-windows\PrimerPrograma.AssemblyInfo.cs
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\obj\Debug\net6.0-windows\PrimerPrograma.csproj.CoreCompileInputs.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\obj\Debug\net6.0-windows\PrimerPrograma.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\obj\Debug\net6.0-windows\refint\PrimerPrograma.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\obj\Debug\net6.0-windows\PrimerPrograma.pdb
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\obj\Debug\net6.0-windows\PrimerPrograma.genruntimeconfig.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\PrimerPrograma\obj\Debug\net6.0-windows\ref\PrimerPrograma.dll
