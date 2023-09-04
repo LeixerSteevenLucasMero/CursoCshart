@@ -16,7 +16,15 @@ Curso de C# desde 0
 	- componentes button
 	- aplicacion de ejemplo llamada PrimerPrograma: creacion de un boton para usar onclick para mostrar un messaje 
 
-# 
+# Video 3 - Tipos de datos y declaracion de variables
+	- conceptos:
+		- variables y constantes
+		- tipos de datos
+		- declaracion y asignacion de datos
+		- consejos: 1 letra en minuscula la variable.
+	- EJEMPLO: programa en visual studio 
+		- creacion de variables de tipo int
+		- creacion de constante de tipo int
 
 
 
