@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             btnVerMensaje = new Button();
+            txtMensaje = new TextBox();
             SuspendLayout();
             // 
             // btnVerMensaje
@@ -41,20 +42,30 @@
             btnVerMensaje.UseVisualStyleBackColor = true;
             btnVerMensaje.Click += btnVerMensaje_Click;
             // 
+            // txtMensaje
+            // 
+            txtMensaje.Location = new Point(24, 44);
+            txtMensaje.Name = "txtMensaje";
+            txtMensaje.Size = new Size(249, 23);
+            txtMensaje.TabIndex = 1;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(297, 230);
+            Controls.Add(txtMensaje);
             Controls.Add(btnVerMensaje);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
         private Button btnVerMensaje;
+        private TextBox txtMensaje;
     }
 }

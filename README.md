@@ -39,3 +39,10 @@ Curso de C# desde 0
 		- operadores de && || !
 		- epresiones aritmeticos relacioneles y logicos
 	- EJMPLO de los operadores en visual
+
+# Video 6 - Componente TetBo
+	-Conceptos
+		- entrada de datos por teclado
+		- se pude hacer por readline en consola o con tet para un te
+	- EJEMPLO: uso de tetBo de un from 
+	
