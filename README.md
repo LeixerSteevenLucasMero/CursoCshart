@@ -32,3 +32,10 @@ Curso de C# desde 0
 	-EJEMPLO: programa en visual studio comuity
 
 
+# Video 5 - Operadores y Epresiones
+	- Conceptos:
+		- de los diferentes operadores + - * / % ++ --
+		- operadores: <> = ! 
+		- operadores de && || !
+		- epresiones aritmeticos relacioneles y logicos
+	- EJMPLO de los operadores en visual
