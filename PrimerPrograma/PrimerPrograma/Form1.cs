@@ -2,6 +2,8 @@ namespace PrimerPrograma
 {
     public partial class Form1 : Form
     {
+        int valorNumererico = 20;
+
         public Form1()
         {
             InitializeComponent();
@@ -14,15 +16,12 @@ namespace PrimerPrograma
 
         private void btnVerMensaje_Click(object sender, EventArgs e)
         {
-            //video3:variable
-            int valorNumerico = 20;
-            valorNumerico = 15;
-            //constante: el valor inicial no se puede modificar despues por qe es una constante
-            //const int valorNumeroo = 20;
-            //valorNumericoo = 15;
+            MessageBox.Show("El valor de la variable numerico es: " + valorNumererico);
+        }
 
-            //Mesage en ventana emergenete
-            MessageBox.Show("El valor de la variable numerica es:" + valorNumerico);
+        private void otraFuncion()
+        {
+            valorNumererico = 20;
         }
     }
 }

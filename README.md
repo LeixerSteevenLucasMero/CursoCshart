@@ -25,6 +25,10 @@ Curso de C# desde 0
 	- EJEMPLO: programa en visual studio 
 		- creacion de variables de tipo int
 		- creacion de constante de tipo int
-
+# Video 4 - Ambito de las variables
+	-Conceptos:
+		- Ambitos de una variable
+		- diferencia con una variable de ambito local y global
+	-EJEMPLO: programa en visual studio comuity
 
 
