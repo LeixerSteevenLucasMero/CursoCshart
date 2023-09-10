@@ -1,0 +1,16 @@
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\bin\Debug\net6.0-windows\ParImpar.exe
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\bin\Debug\net6.0-windows\ParImpar.deps.json
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\bin\Debug\net6.0-windows\ParImpar.runtimeconfig.json
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\bin\Debug\net6.0-windows\ParImpar.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\bin\Debug\net6.0-windows\ParImpar.pdb
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\obj\Debug\net6.0-windows\ParImpar.Form1.resources
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\obj\Debug\net6.0-windows\ParImpar.csproj.GenerateResource.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\obj\Debug\net6.0-windows\ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\obj\Debug\net6.0-windows\ParImpar.AssemblyInfoInputs.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\obj\Debug\net6.0-windows\ParImpar.AssemblyInfo.cs
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\obj\Debug\net6.0-windows\ParImpar.csproj.CoreCompileInputs.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\obj\Debug\net6.0-windows\ParImpar.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\obj\Debug\net6.0-windows\refint\ParImpar.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\obj\Debug\net6.0-windows\ParImpar.pdb
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\obj\Debug\net6.0-windows\ParImpar.genruntimeconfig.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\ParImpar\obj\Debug\net6.0-windows\ref\ParImpar.dll

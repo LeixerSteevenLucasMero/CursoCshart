@@ -52,3 +52,10 @@ Curso de C# desde 0
 		- 
 	- EJEMPLO:
 		- ejercicio: elabore un algoritmo qe permita calcular la nota final de un estudiante, teniendo en cuenta que al estudiante se le han tomado 3 notas en el periodo
+# Video 8 - Condicional If Else.
+	- Conceptos:
+		- que son las condicionales
+		- condicional if else
+		- Sintasis Condicional if else
+	EJEMPLO:
+		- Ejemplo de condicionales en VSC: ejemplo de Par e Impar
