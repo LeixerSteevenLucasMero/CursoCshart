@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritmo", "Algoritmo\Algo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParImpar", "ParImpar\ParImpar.csproj", "{F83198AD-00B2-416B-8976-2F36050B6138}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DescuentoCompras", "DescuentoCompras\DescuentoCompras.csproj", "{F3B3D0FA-7058-48EB-9A7D-418424544843}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F83198AD-00B2-416B-8976-2F36050B6138}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F83198AD-00B2-416B-8976-2F36050B6138}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F83198AD-00B2-416B-8976-2F36050B6138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B3D0FA-7058-48EB-9A7D-418424544843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B3D0FA-7058-48EB-9A7D-418424544843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B3D0FA-7058-48EB-9A7D-418424544843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B3D0FA-7058-48EB-9A7D-418424544843}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

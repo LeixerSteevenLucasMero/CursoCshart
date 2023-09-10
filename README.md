@@ -59,3 +59,11 @@ Curso de C# desde 0
 		- Sintasis Condicional if else
 	EJEMPLO:
 		- Ejemplo de condicionales en VSC: ejemplo de Par e Impar
+
+# Video 9 - Condicional If Else If
+	- Conceptos:
+		- Condicional if else if
+		- Sintais Condicional If ese if
+	- EJEMPLO: aplicacion en VSC DescuentoCompras
+		- Elabore un algoritmo que permita etablecer el descuento del valor de una compra, dicho descuento se aplica de acuerdo a a siguiente tabla, se debe mostrar el valor del descuento aplicad y el total de la compra con el descuento.
+	

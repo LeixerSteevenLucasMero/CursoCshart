@@ -1,0 +1,16 @@
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\bin\Debug\net6.0-windows\DescuentoCompras.exe
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\bin\Debug\net6.0-windows\DescuentoCompras.deps.json
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\bin\Debug\net6.0-windows\DescuentoCompras.runtimeconfig.json
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\bin\Debug\net6.0-windows\DescuentoCompras.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\bin\Debug\net6.0-windows\DescuentoCompras.pdb
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\obj\Debug\net6.0-windows\DescuentoCompras.Form1.resources
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\obj\Debug\net6.0-windows\DescuentoCompras.csproj.GenerateResource.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\obj\Debug\net6.0-windows\DescuentoCompras.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\obj\Debug\net6.0-windows\DescuentoCompras.AssemblyInfoInputs.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\obj\Debug\net6.0-windows\DescuentoCompras.AssemblyInfo.cs
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\obj\Debug\net6.0-windows\DescuentoCompras.csproj.CoreCompileInputs.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\obj\Debug\net6.0-windows\DescuentoCompras.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\obj\Debug\net6.0-windows\refint\DescuentoCompras.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\obj\Debug\net6.0-windows\DescuentoCompras.pdb
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\obj\Debug\net6.0-windows\DescuentoCompras.genruntimeconfig.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\DescuentoCompras\obj\Debug\net6.0-windows\ref\DescuentoCompras.dll

@@ -23,13 +23,10 @@ namespace ParImpar
                 {
                     MessageBox.Show("El valor no es un numero Par");
                 }
-
             }
             else
             {
                 MessageBox.Show("No es un valor valido");
-
-
             }
         }
 
