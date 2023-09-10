@@ -46,3 +46,9 @@ Curso de C# desde 0
 		- se pude hacer por readline en consola o con tet para un te
 	- EJEMPLO: uso de tetBo de un from 
 	
+# Video 7 - Algoritmo de programacion
+	- Conceptos:
+		- Algoritmos de programacion
+		- 
+	- EJEMPLO:
+		- ejercicio: elabore un algoritmo qe permita calcular la nota final de un estudiante, teniendo en cuenta que al estudiante se le han tomado 3 notas en el periodo
