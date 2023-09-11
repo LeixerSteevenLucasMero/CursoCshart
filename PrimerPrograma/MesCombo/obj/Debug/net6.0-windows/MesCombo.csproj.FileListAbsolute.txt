@@ -1,0 +1,16 @@
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\bin\Debug\net6.0-windows\MesCombo.exe
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\bin\Debug\net6.0-windows\MesCombo.deps.json
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\bin\Debug\net6.0-windows\MesCombo.runtimeconfig.json
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\bin\Debug\net6.0-windows\MesCombo.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\bin\Debug\net6.0-windows\MesCombo.pdb
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\obj\Debug\net6.0-windows\MesCombo.Form1.resources
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\obj\Debug\net6.0-windows\MesCombo.csproj.GenerateResource.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\obj\Debug\net6.0-windows\MesCombo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\obj\Debug\net6.0-windows\MesCombo.AssemblyInfoInputs.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\obj\Debug\net6.0-windows\MesCombo.AssemblyInfo.cs
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\obj\Debug\net6.0-windows\MesCombo.csproj.CoreCompileInputs.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\obj\Debug\net6.0-windows\MesCombo.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\obj\Debug\net6.0-windows\refint\MesCombo.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\obj\Debug\net6.0-windows\MesCombo.pdb
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\obj\Debug\net6.0-windows\MesCombo.genruntimeconfig.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\MesCombo\obj\Debug\net6.0-windows\ref\MesCombo.dll

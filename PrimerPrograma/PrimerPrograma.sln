@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimerPrograma", "PrimerPro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritmo", "Algoritmo\Algoritmo.csproj", "{AE823A4C-93EE-432C-9585-24DB2713C59E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParImpar", "ParImpar\ParImpar.csproj", "{F83198AD-00B2-416B-8976-2F36050B6138}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParImpar", "ParImpar\ParImpar.csproj", "{F83198AD-00B2-416B-8976-2F36050B6138}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DescuentoCompras", "DescuentoCompras\DescuentoCompras.csproj", "{F3B3D0FA-7058-48EB-9A7D-418424544843}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DescuentoCompras", "DescuentoCompras\DescuentoCompras.csproj", "{F3B3D0FA-7058-48EB-9A7D-418424544843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MesCombo", "MesCombo\MesCombo.csproj", "{560FCAB2-9700-4F05-818E-42D2803C0203}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F3B3D0FA-7058-48EB-9A7D-418424544843}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3B3D0FA-7058-48EB-9A7D-418424544843}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3B3D0FA-7058-48EB-9A7D-418424544843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560FCAB2-9700-4F05-818E-42D2803C0203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560FCAB2-9700-4F05-818E-42D2803C0203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560FCAB2-9700-4F05-818E-42D2803C0203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560FCAB2-9700-4F05-818E-42D2803C0203}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

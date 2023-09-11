@@ -66,4 +66,10 @@ Curso de C# desde 0
 		- Sintais Condicional If ese if
 	- EJEMPLO: aplicacion en VSC DescuentoCompras
 		- Elabore un algoritmo que permita etablecer el descuento del valor de una compra, dicho descuento se aplica de acuerdo a a siguiente tabla, se debe mostrar el valor del descuento aplicad y el total de la compra con el descuento.
-	
+
+# Video 10 - Condicional switch y componente combobox
+	- Concepto:
+		- Que es el condicional switch
+		- Sintaxis Condiocional Switch
+	- EJEMPLO: en VSC 
+		- un programa que permita seleccionar de una lista desbleable y muestre por medio de una caja de teto el nombre del mes correspondiente
