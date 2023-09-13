@@ -73,3 +73,13 @@ Curso de C# desde 0
 		- Sintaxis Condiocional Switch
 	- EJEMPLO: en VSC 
 		- un programa que permita seleccionar de una lista desbleable y muestre por medio de una caja de teto el nombre del mes correspondiente
+
+# Video 11 - Bucle for y componente listbo en C#
+	- Concepto
+		- Que son lo bucles?
+		- Variable contadora
+		- Sintasis de contador
+		- Bucles determinados
+		- Sistasis del bucle for
+	- EJEMPLO: programa de VSC 
+		- elabore un programa que permita ingresar un numero por teclado y muestre su respectiva tabla de multiplicar
