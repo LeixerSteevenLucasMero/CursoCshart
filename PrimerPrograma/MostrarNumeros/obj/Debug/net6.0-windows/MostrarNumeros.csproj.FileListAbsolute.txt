@@ -1,0 +1,16 @@
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\bin\Debug\net6.0-windows\MostrarNumeros.exe
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\bin\Debug\net6.0-windows\MostrarNumeros.deps.json
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\bin\Debug\net6.0-windows\MostrarNumeros.runtimeconfig.json
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\bin\Debug\net6.0-windows\MostrarNumeros.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\bin\Debug\net6.0-windows\MostrarNumeros.pdb
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\obj\Debug\net6.0-windows\TablaMultiplicar.Form1.resources
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\obj\Debug\net6.0-windows\MostrarNumeros.csproj.GenerateResource.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\obj\Debug\net6.0-windows\MostrarNumeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\obj\Debug\net6.0-windows\MostrarNumeros.AssemblyInfoInputs.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\obj\Debug\net6.0-windows\MostrarNumeros.AssemblyInfo.cs
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\obj\Debug\net6.0-windows\MostrarNumeros.csproj.CoreCompileInputs.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\obj\Debug\net6.0-windows\MostrarNumeros.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\obj\Debug\net6.0-windows\refint\MostrarNumeros.dll
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\obj\Debug\net6.0-windows\MostrarNumeros.pdb
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\obj\Debug\net6.0-windows\MostrarNumeros.genruntimeconfig.cache
+D:\GitProyect\CursoCshart\PrimerPrograma\MostrarNumeros\obj\Debug\net6.0-windows\ref\MostrarNumeros.dll

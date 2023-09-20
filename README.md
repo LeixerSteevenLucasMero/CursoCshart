@@ -83,3 +83,12 @@ Curso de C# desde 0
 		- Sistasis del bucle for
 	- EJEMPLO: programa de VSC 
 		- elabore un programa que permita ingresar un numero por teclado y muestre su respectiva tabla de multiplicar
+
+# Video 12 - Bucle While y Do while
+	- Conceptos:
+		- bucles indeterminados
+		- sintasis del bucle while
+		- bucle do while
+		- sintasis del bucle do while
+	- EJEMPLO: en VSC para mostrar las cantidad de numeros, 
+		- mostrar los un testo en base a la utilizacion de sus bucles while y do while
